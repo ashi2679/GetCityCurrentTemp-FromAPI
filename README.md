@@ -1,5 +1,5 @@
 # GetCityCurrentTemp-FromAPI
-Get Current City Temperature
+Get City Current Temperature
 
 Overview: This project prompts the user to input city name to get current temprature of that city.
 
